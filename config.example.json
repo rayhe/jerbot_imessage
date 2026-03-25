@@ -1,0 +1,6 @@
+{
+    "webhookURL": "http://localhost:3000/webhook/imessage",
+    "pollIntervalSeconds": 2.0,
+    "replyPort": 8765,
+    "logFile": "~/Library/Logs/JerbotRelay.log"
+}
